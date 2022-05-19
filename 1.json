@@ -22,7 +22,8 @@
 "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID","image"
 ],
 "common_interstial_splash": [
-"ca-app-pub-3940256099942544/1033173712"
+"ca-app-pub-3940256099942544/1033173712",
+  "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID","image"
 ],
 "moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json",
 "app_title": "App Title",
@@ -33,10 +34,10 @@
 "facebook","image"
 ],
 "spalsh_interstitial_priority": [
-"google"
+"google","facebook"
 ],
 "fail_priority": "facebook",
-"openapp_fail": "facebook",
+"openapp_fail": "google",
 "Agora_APP_IDD": "f55f50b6017c4326acceaa5c5a410d5e"
 }
 ]
