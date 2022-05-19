@@ -19,7 +19,7 @@
 ],
 "common_interstial": [
 "ca-app-pub-3940256099942544/1033173712",
-"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID","",""
+"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID"
 ],
 "common_interstial_splash": [
 "ca-app-pub-3940256099942544/1033173712"
@@ -30,9 +30,7 @@
 "banner_priority": "facebook",
 "interstitial_priority": [
 "google",
-"facebook",
-"image",
-""
+"facebook"
 ],
 "spalsh_interstitial_priority": [
 "google"
