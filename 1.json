@@ -36,7 +36,7 @@
 "spalsh_interstitial_priority": [
 "google","facebook"
 ],
-"fail_priority": "facebook",
+"fail_priority": "google",
 "openapp_fail": "google",
 "Agora_APP_IDD": "f55f50b6017c4326acceaa5c5a410d5e"
 }
