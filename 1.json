@@ -37,10 +37,10 @@
 "google","facebook"
 ],
 "rewards_priority": [
-"google","facebook"
+"google","facebook",""
 ],
 "common_rewards": [
-"google","facebook"
+"ca-app-pub-3940256099942544/5224354917","VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",""
 ],
 "fail_priority": "google",
 "openapp_fail": "google"
