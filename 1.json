@@ -2,7 +2,7 @@
   "status" : 1,
   "data" : [
     {
-"facebook_interstial_splash_fail": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+"open_ad_show" : true,
 "facebook_interstial_fail": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 "facebook_native_fail": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -11,7 +11,6 @@
 "google_open_ads": "ca-app-pub-3940256099942544/3419835294",
 "google_banner": "ca-app-pub-3940256099942544/6300978111",
 "google_banner_fail": "ca-app-pub-3940256099942544/6300978111",
-"google_interstial_splash_fail ": "ca-app-pub-3940256099942544/1033173712",
 "google_interstial_fail": "ca-app-pub-3940256099942544/1033173712",
 "google_native_fail": "ca-app-pub-3940256099942544/2247696110",
 "common_native": [
@@ -21,10 +20,6 @@
 "ca-app-pub-3940256099942544/1033173712",
 "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID","image"
 ],
-"common_interstial_splash": [
-"ca-app-pub-3940256099942544/1033173712",
-  "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID","image"
-],
 "moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json",
 "app_title": "App Title",
 "native_priority": "google",
@@ -32,9 +27,6 @@
 "interstitial_priority": [
 "google",
 "facebook","image"
-],
-"spalsh_interstitial_priority": [
-"google","facebook"
 ],
 "rewards_priority": [
 "google","facebook",""
