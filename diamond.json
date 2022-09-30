@@ -106,5 +106,587 @@
     "stoneName": "Andradite",
     "stoneDescription": "Andradite is one of the most sought after garnet species. Although more sources have been discovered in recent decades, gem-quality andradites remain rare.",
     "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/10/7458465_1_x-300x300.jpg"
-  }
+  },
+  {
+    "id": 203,
+    "stoneName": "Powellite",
+    "stoneDescription": "An overview on Powellite Jewelry and Gems. Covers details and essential information on the physical properties and characteristics of Powellite gemstones.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Powellite-300x300.jpg"
+  },
+  {
+    "id": 204,
+    "stoneName": "Prehnite",
+    "stoneDescription": "Prehnite is popular as a cabochon material among hobbyists because of its lovely green and blue-green to yellow colors. Completely transparent material is extremely rare but might be found in crystals from Asbestos, Quebec. Yellowish to greenish translucent material from Australia has been faceted and makes a striking cut gemstone with a rich color and interesting appearance, with a soft, velvety look. Some catseye stones have also been reported. Material from Scotland has yielded cuttable fragments, but such faceted gems are rather small (under 5 carats).",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Prehnite-300x185.jpg"
+  },
+  {
+    "id": 205,
+    "stoneName": "Prosopite",
+    "stoneDescription": "Prosopite is usually a nondescript mineral with no gem significance. However, beautiful blue specimens are sometimes cut for jewelry.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/4.94-ct.-Prosopite-Cabochon-ProsopiteI-300x300.jpg"
+  },
+  {
+    "id": 206,
+    "stoneName": "Proteus",
+    "stoneDescription": "A few almandine/pyrope garnets from the US will change with treatment into proteus garnets. In reflected light, they have a dark gray, metallic luster. In transmitted light, the dark red of the garnet shows through.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/09/gar18.gif"
+  },
+  {
+    "id": 207,
+    "stoneName": "Proustite",
+    "stoneDescription": "Proustite crystals have magnificent red colors and good brilliance. Although facetable, they're too soft for jewelry use but highly desired as collector's gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/10/PROUSTITE-2.58-300x300.jpg"
+  },
+  {
+    "id": 208,
+    "stoneName": "Pumpellyite",
+    "stoneDescription": "The gem variety of pumpellyite, chlorastrolite, is best known from the Lake Superior district of the United States. It typically forms aggregates of packed fibers that are mixed with other minerals, resulting in a green and white pattern reminiscent of tortoise shell. The effect is best observed when the fibers are in radial clusters that yield circular markings. ",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Pumpellyite.jpg"
+  },
+  {
+    "id": 209,
+    "stoneName": "Purpurite",
+    "stoneDescription": "Purpurite is too soft for jewelry wear and never transparent. Nevertheless, lapidaries have cut cabochons from this material with magnificent purplish rose hues.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/69838332_1_x-300x300.jpg"
+  },
+  {
+    "id": 210,
+    "stoneName": "Pyrargyrite",
+    "stoneDescription": "Deep red pyrargyrite occurs in a number of localities in well-formed but small crystals. However, facetable rough is rare and difficult to cut, which makes these gems prized collector’s items.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/rnc15-014b-wm-pyrargyrite-rough-and-cut-set-mexico-fine-mineral-specimen-300x300.jpg"
+  },
+  {
+    "id": 211,
+    "stoneName": "Pyrite",
+    "stoneDescription": "Pyrite is more commonly known as fool’s gold and is familiar to nearly every mineral collector. It has been used for centuries both in jewelry and as an ore of iron. “Marcasite” stones in jewelry are frequently pyrite, since the latter is more stable. The material is very brittle and heat sensitive and requires some care in cutting. Cabochons are sometimes cut, but they have no special appeal.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Pyrite-300x300.jpg"
+  },
+  {
+    "id": 212,
+    "stoneName": "Pyrope Garnet",
+    "stoneDescription": "Pyrope always occurs in series with other garnet species. Common, dark red garnets are a mixture of almandine and pyrope. Other mixtures also occur, in colors than can range from pale orange and pink to purple.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/10/C143_Garnet1-300x300.jpg"
+  },
+  {
+    "id": 213,
+    "stoneName": "Pyrophyllite",
+    "stoneDescription": "Pyrophyllite resembles talc in many ways and is indistinguishable by eye from soapstone. Chemical tests are needed to distinguish them. North Carolina material is often used in carvings, as is the material from China known as agalmatolite.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Pyrophyllite-300x300.jpg"
+  },
+  {
+    "id": 214,
+    "stoneName": "Pyroxmangite",
+    "stoneDescription": "Pyroxmangite grains are rare, seldom clean enough to facet, and difficult to cut. However, when cut, they are extremely beautiful and rich in color.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Mar17Pyrox-300x300.jpg"
+  },
+  {
+    "id": 215,
+    "stoneName": "Pyrrhotite",
+    "stoneDescription": "An overview on Pyrrhotite Jewelry and Gemstones. Covers details and essential information on the physical properties and characteristics of Pyrrhotite gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Pyrrhotite-300x300.jpg"
+  },
+  {
+    "id": 216,
+    "stoneName": "Quartz",
+    "stoneDescription": "An overview on Quartz Jewelry and Gemstones. Covers details and essential information on the physical properties and characteristics of a Quartz mineral.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/09/Quartz-Tibet-300x300.jpg"
+  },
+  {
+    "id": 217,
+    "stoneName": "Quartzite",
+    "stoneDescription": "Quartzite is a rock made up of tightly packed quartz grains. Sometimes, it contains small crystals that reflect light. This material is called aventurine. ",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/11/quartzite-300x300.jpg"
+  },
+  {
+    "id": 218,
+    "stoneName": "Realgar",
+    "stoneDescription": "Although this common arsenic sulfide mineral occurs worldwide, cut gem-quality realgar is extremely rare. This fine, red stone is very fragile, difficult to cut, and nearly impossible to wear.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/IMG_5209-300x300.jpeg"
+  },
+  {
+    "id": 219,
+    "stoneName": "Red Beryl",
+    "stoneDescription": "Originally known as bixbite, red beryl is one of the rarest, most desirable, and most expensive gemstones. Most fine crystal specimens are zealously guarded by mineral collectors and are never faceted.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/08/Feb18RBeryl-300x300.jpg"
+  },
+  {
+    "id": 220,
+    "stoneName": "Rhodizite",
+    "stoneDescription": "Rhodizite is tough enough to make an excellent jewelry stone. However, it's quite a rare mineral. Faceted specimens are extremely rare and usually small and pale in color.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/04/1.71-ct.-Malagasy-Rhodizite-RhodiziteI-300x300.jpg"
+  },
+  {
+    "id": 221,
+    "stoneName": "Rhodochrosite",
+    "stoneDescription": "Beautiful rose red to pink rhodochrosite crystals are popular with mineral collectors. Although very soft, opaque stones have been fashioned into beads, cabochons, and carvings, while very rare translucent to transparent material has been cut into faceted gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/RDC001A-300x300.jpg"
+  },
+  {
+    "id": 222,
+    "stoneName": "Rhodolite Garnet",
+    "stoneDescription": "Rhodolites are purplish red garnets, a blend between almandine and pyrope in composition. These durable gems have become popular jewelry stones.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/10/January-2006-Rhodolite-FW-300x300.jpg"
+  },
+  {
+    "id": 223,
+    "stoneName": "Rhodonite",
+    "stoneDescription": "Ranging in color from pink to a fine rose red, rhodonite is a popular material for jewelry and decorative objects. Faceted rhodonite has an intense, beautiful color, but this material has a reputation as one of the most difficult gemstones to cut.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/09/RHODONITE-BRAZIL-4.26CTS-JB165-04-300x300.jpg"
+  },
+  {
+    "id": 224,
+    "stoneName": "Rose Quartz",
+    "stoneDescription": "A popular variety of colored quartz, rose quartz makes a durable jewelry stone. Although commonly cabbed and carved, more transparent material can also be faceted.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/11/1157px-Quarz_Varietät_Rosenquarz_-_Glattschliff_Herz-300x300.jpg"
+  },
+  {
+    "id": 225,
+    "stoneName": "Rubellite",
+    "stoneDescription": "Rubellites are tourmalines with reasonably saturated dark pink to red colors and medium to dark tones. They make excellent jewelry stones, and ruby-red colored specimens without orange or brown overtones are highly prized.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/09/RUBELLITE-NIGERIA-22-70CTS-G8-9-300x300.jpg"
+  },
+  {
+    "id": 226,
+    "stoneName": "Ruby",
+    "stoneDescription": "One of the most popular traditional jewelry stones, ruby is exceptionally durable. Its colors — always red — can reach vivid levels of saturation. Fine-quality rubies are some of the most expensive gemstones, with record prices over $1,000,000 per carat. However, rubies are also subjected to more treatments than almost any other gem.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2015/12/June15RubyII-300x300.jpg"
+  },
+  {
+    "id": 227,
+    "stoneName": "Rutile",
+    "stoneDescription": "Though perhaps best known as inclusions within other gems, rutile crystals themselves can be faceted or cabbed as curiosities for collectors. Synthetics can show a variety of colors and have even been used as diamond simulants.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/12/Nov15Rutile-300x300.jpg"
+  },
+  {
+    "id": 228,
+    "stoneName": "Saltwater Pearl",
+    "stoneDescription": "Although pearls are one of humanity’s most ancient gems, natural undersea beds of pearl-producing oysters now occur very rarely. Cultured saltwater pearls have become some of the most prized varieties of the traditional June birthstone.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/07/26720092_1_x-300x300.jpg"
+  },
+   {
+    "id": 232,
+    "stoneName": "Sapphirine",
+    "stoneDescription": "Sapphirines are durable but very rare gemstones. Although named after their typically sapphire-blue color, these gems can occur in different hues and display pleochroism, too.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2018/04/Sapphirine-SapphirineI-300x300.jpg"
+  },
+  {
+    "id": 233,
+    "stoneName": "Sarcolite",
+    "stoneDescription": "Sarcolite is an extremely rare mineral. Tiny, colorless to “fleshy pink” gems have been cut only from material from one locality: Mount Vesuvius.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2018/06/faceted-sarcolite-Italy-300x300.jpeg"
+  },
+  {
+    "id": 234,
+    "stoneName": "Scapolite",
+    "stoneDescription": "Although not well known, scapolite would make an attractive gem material for both jewelry enthusiasts and mineral collectors. It comes in a wide variety of colors and can show dramatic fluorescence and phenomenal effects.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/10/16.15-ct.-Tanzanian-Yellow-Scapolite-ScapoliteI-300x300.jpg"
+  },
+  {
+    "id": 235,
+    "stoneName": "Scheelite",
+    "stoneDescription": "Large, faceted scheelites are among the most beautiful of all collector’s gemstones. They occur in many colors and fluoresce very brightly. If cut properly, scheelites can have tremendous fire.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2018/10/SCH007C-300x300.jpg"
+  },
+  {
+    "id": 236,
+    "stoneName": "Scorodite",
+    "stoneDescription": "With lovely colors and intense pleochroism, faceted scorodite is a prize for collectors of the rare and unusual. However, it’s too soft for jewelry use.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2018/01/Image-1077cropped-300x300.jpg"
+  },
+  {
+    "id": 237,
+    "stoneName": "Sellaite",
+    "stoneDescription": "An overview on Sellaite Jewelry and Gemstones. Covers details and essential information on the physical properties and characteristics of Sellaite gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Sellaite-300x300.jpg"
+  },
+  {
+    "id": 238,
+    "stoneName": "Senarmontite",
+    "stoneDescription": "Senarmontite is a rare mineral, restricted in occurrence to the presence of antimony sulfide ores. It is much too soft to wear, and the colors are usually nondescript. However, a faceted senarmontite in any size would be a great rarity.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Senarmontite-300x300.jpg"
+  },
+  {
+    "id": 239,
+    "stoneName": "Serandite",
+    "stoneDescription": "To date, only one locality — Mont St. Hilaire, Quebec, Canada — has produced facetable serandite. These extremely rare gems are very small and usually cut from less than transparent crystal fragments.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/SERANDITE-HILAIRE-1-87CTS-G43-10-300x300.jpg"
+  },
+  {
+    "id": 240,
+    "stoneName": "Serpentine",
+    "stoneDescription": "The gem material known as serpentine actually encompasses several related mineral species. For millennia, people have cut serpentines into beautiful gems and decorative objects.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Image-1081-detail-300x300.png"
+  },
+  {
+    "id": 241,
+    "stoneName": "Shattuckite",
+    "stoneDescription": "Shattuckite is often mixed with quartz, and data often reported for properties may be erroneous. The cabochons are rich blue in color and very popular, but the material is not abundant and seldom seen on the market.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Shattuckite-300x300.jpg"
+  },
+  {
+    "id": 242,
+    "stoneName": "Shortite",
+    "stoneDescription": "Shortite is an exceedingly rare, not overly attractive mineral. Cut gems are among the rarest of all faceted stones. The material is a carbonate and is therefore fragile and soft.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Shortite.jpg"
+  },
+  {
+    "id": 243,
+    "stoneName": "Siderite",
+    "stoneDescription": "Siderite is difficult to cut, but this light brown collector's gem has yielded faceted pieces of great beauty.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/SID0011.66ct1-300x300.jpg"
+  },
+  {
+    "id": 244,
+    "stoneName": "Sillimanite",
+    "stoneDescription": "The fibrolite from Burma and Sri Lanka is well known to gem collectors, and highly prized because of its great scarcity. Blue and greenish gems are lovely, although very difficult to cut. Chatoyant material sometimes yields catseye fibrolites, which are also very rare. The material from Kenya is just as attractive as Burmese fibrolite but seems to be somewhat smaller in size.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Sillimanite-300x178.jpg"
+  },
+  {
+    "id": 245,
+    "stoneName": "Simpsonite",
+    "stoneDescription": "Simpsonite is an extremely rare gemstone. The material from Western Australia is bright yellow-orange and very beautiful. The mineral is hard and durable, with no cleavage, and could easily become a popular gemstone if it were more abundant. Gems over 1 carat should be considered extremely rare because clean material is a very small percentage of the limited supply of simpsonite that has been found.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Simpsonite.jpg"
+  },
+  {
+    "id": 246,
+    "stoneName": "Sinhalite",
+    "stoneDescription": "Long thought to be brown peridot, sinhalite was investigated in 1952 and found to be a new mineral. When cut, it is richly colored, bright, and attractive, and resembles citrine, peridot, or zircon. Large gems are very rare, but smaller stones are available in the marketplace. Some people have reported that it was easier at times to find a large sinhalite for sale than a small one, however, as rough pebbles from Sri Lanka are often large.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Sinhalite-300x239.jpg"
+  },
+  {
+    "id": 247,
+    "stoneName": "Smaltite",
+    "stoneDescription": "Smaltite is a collectors oddity, cut only as cabochons. It is seldom seen in collections since it is not especially distinctive, with a color resembling other metallic sulfides and arsenides.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Smatite-300x300.jpg"
+  },
+  {
+    "id": 248,
+    "stoneName": "Smithsonite",
+    "stoneDescription": "Smithsonite occurs across the globe, but facetable crystals are extremely rare. These gems can show a wide range range of rich colors but are too soft for most jewelry use. However, high dispersion makes properly faceted smithsonites truly magnificent collector’s pieces.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Dec11BCSmithsonitel-300x300.jpg"
+  },
+  {
+    "id": 249,
+    "stoneName": "Smoky Quartz",
+    "stoneDescription": "Smoky quartz comes in every shade of brown, from a light tan to nearly black. This gem is known for its large sizes. If you want a really big gem on a very small budget, this could be your stone.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/01/properties-images-smokey2.jpg"
+  },
+  {
+    "id": 250,
+    "stoneName": "Sodalite",
+    "stoneDescription": "Typically blue, durable, and easy to cut, sodalite is highly desired by hobbyists. Even stones that lack transparency make lovely faceted gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Sodalite.hippo_.arp_.750pix-300x300.jpg"
+  },
+  {
+    "id": 251,
+    "stoneName": "Sogdianite",
+    "stoneDescription": "Sogdianite is an extremely rare mineral, suitable for cabochons. The color is striking and the material is hard enough to take a good polish. It is usually mixed with other minerals, so the SG and hardness are variable. Chemical analysis may be required to differentiate sogdianite from sugilite, but the latter is far more abundant.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/gem-placeholder-300x300.jpg"
+  },
+  {
+    "id": 252,
+    "stoneName": "Spessartite Garnet",
+    "stoneDescription": "Usually orange to reddish brown, gem-quality spessartite or spessartine garnets are somewhat rare. However, as blends with other garnet species, they include popular mandarin and malaya garnets as well as color change gems. Spessartites make very durable jewelry stones.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/10/SpessII-300x300.jpg"
+  },
+  {
+    "id": 253,
+    "stoneName": "Sphalerite",
+    "stoneDescription": "Sphalerite occurs in many colors. With a dispersion over three times that of diamond and an adamantine luster, faceted specimens make beautiful additions to gem collections. However, they're too soft for most jewelry uses.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/06/21.53-ct.-Montana-Sphalerite-MSphaleriteI-300x300.jpg"
+  },
+  {
+    "id": 254,
+    "stoneName": "Sphene (Titanite)",
+    "stoneDescription": "Sphene, also known as titanite, has rich body colors, strong trichroism, and a fire that exceeds diamond. Although softer than many more popular gems, sphenes can make wonderful jewelry stones if set and maintained properly.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/09/Sphene-Emerald-Cut-Madagascar-300x300.png"
+  },
+  {
+    "id": 255,
+    "stoneName": "Spinel",
+    "stoneDescription": "Spinel is an important gem historically because it has been confused with other gemstones, especially ruby. Large red gems such as the Black Princes Ruby and the Timur Ruby in the Crown Jewels of England have proven to be fine large red spinels (ruby spinel). In ancient times this material was known as Balas ruby.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/09/Spinel1-Sri-Lanka-300x300.png"
+  },
+  {
+    "id": 256,
+    "stoneName": "Spodumene",
+    "stoneDescription": "Extraordinarily difficult to cut, spodumene has several colorful varieties, such as hiddenite and kunzite, highly coveted for jewelry.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/09/spodumene-bicolor-300x300.jpg"
+  },
+  {
+    "id": 257,
+    "stoneName": "Spurrite",
+    "stoneDescription": "An attractive but uncommon mineral, spurrite has seldom been cut as a gemstone. However, it has the hardness and tenacity to be used for cabochons.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/2.41-ct.-Japanese-Spurrite-SpurriteI-300x300.jpg"
+  },
+  {
+    "id": 258,
+    "stoneName": "Star Sapphire",
+    "stoneDescription": "Star sapphire is a type of sapphire that displays asterism, a star-like optical effect.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/11/Star-Saphire.jpg"
+  },
+  {
+    "id": 259,
+    "stoneName": "Staurolite",
+    "stoneDescription": "Staurolite crystals in opaque cross shapes are popular gemstones. However, this material is very rarely transparent or facetable. These dark colored gems would make very durable jewelry pieces.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/STU001A-300x300.jpg"
+  },
+  {
+    "id": 260,
+    "stoneName": "Stibiotantalite",
+    "stoneDescription": "Rare stibiotantalite possesses an interesting mix of physical and optical properties that help distinguish it from other earth-toned gemstones. However, cut pieces over 2-3 carats rank among the rarest collector’s gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Mar17STantalite-300x300.jpg"
+  },
+  {
+    "id": 261,
+    "stoneName": "Stichtite",
+    "stoneDescription": "Stichtite is not facetable, but the pink color is quite striking in cabochons. Cut stones are especially beautiful when there are other minerals present to add splashes of green and yellow. This material somewhat resembles a pink, granular material from the USSR referred to as canasite.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Stichite.jpg"
+  },
+  {
+    "id": 262,
+    "stoneName": "Stolzite",
+    "stoneDescription": "Stolzite is a rare mineral; much rarer than wulfenite and usually occurs in very minute crystals. However, the Australian crystals may be up to 1 inch...",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Stolzite-300x300.jpg"
+  },
+  {
+    "id": 263,
+    "stoneName": "Strontianite",
+    "stoneDescription": "Strontianite is a collector’s oddity, with no spectacular properties to recommend it. Colors are usually pale and there is little fire; in addition, the high birefringence doubles back facets and kills the brilliance of the stone. Cut strontianites are, however, decidedly uncommon and worth pursuing for their scarcity value.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Strontianite.jpg"
+  },
+  {
+    "id": 264,
+    "stoneName": "Sugilite",
+    "stoneDescription": "What is the color of sugilite? Grape jelly purple is a good description. More popular among consumers in Asia than North America, this is a very rare and beautiful opaque gem material with an unusual appearance.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/02/Sugilite-Hashnu-Stones-CM-300x300.jpg"
+  },
+  {
+    "id": 265,
+    "stoneName": "Sulfur (Sulphur)",
+    "stoneDescription": "Although sulfur is very abundant, facetable material is not. Sulfur is also enormously difficult to cut and almost impossible to wear, so faceted pieces have some scarcity value for collectors of unusual gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Nov13SulfurII-300x300.jpg"
+  },
+  {
+    "id": 266,
+    "stoneName": "Sunstone",
+    "stoneDescription": "Sunstones contain hematite or goethite inclusions, which reflect light in parallel orientation and create a sparkling sheen in gold to brown color shades. These gems may be oligoclase or labradorite in composition and are much admired as a cabochon material among hobbyists.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/10/Oligoclase-Sunstone-from-India-300x300.jpg"
+  },
+  {
+    "id": 267,
+    "stoneName": "Taaffeite",
+    "stoneDescription": "Taaffeite reacts to most gemological tests like mauve-colored spinel, but can be distinguished on the basis of its birefringence. Additional stones will undoubtedly be discovered in the future (generally misidentified as spinel) as collectors search for these rarities. Taaffeite is one of the rarest of mineral species, and surely among the very rarest and most desirable of all collector gemstones.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Taafeite.jpg"
+  },
+  {
+    "id": 268,
+    "stoneName": "Talc",
+    "stoneDescription": "An overview on Talc Jewelry and Gemstones. Covers details and essential information on the physical properties and characteristics of Talc gemstones.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Talc-block-300x300.jpg"
+  },
+  {
+    "id": 269,
+    "stoneName": "Tantalite",
+    "stoneDescription": "Tantalite is too dark to be of use as a faceted gem but is sometimes cut as a collector curiosity, either faceted or in cabochons. These could be of any desired size.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Tantalite-199605-280x300.jpg"
+  },
+  {
+    "id": 270,
+    "stoneName": "Tanzanite (Zoisite)",
+    "stoneDescription": "Tanzanite has had a rapid rise to prominence among jewelers and gem enthusiasts. Although naturally reddish brown, this transparent zoisite variety achieves a stable, beautiful blue to violet color with heat treatments.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/09/May17Tanzanite-300x300.jpg"
+  },
+  {
+    "id": 271,
+    "stoneName": "Tektite",
+    "stoneDescription": "Tektite is a natural glass formed from the ejected debris of meteorite impacts. Though most pieces are very small, some tektite varieties have been cut and used for jewelry since prehistoric times.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/CairoMusPectoralTaa-cropped-300x300.jpg"
+  },
+  {
+    "id": 272,
+    "stoneName": "Tephroite",
+    "stoneDescription": "Tephroite is generally reddish brown and barely translucent. However, it takes a good polish and is massive enough to make good cabochons. Only the New Jersey and Australian localities seem to have provided such material, however. Faceted gems are unknown.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Tephroite-273160-300x300.jpg"
+  },
+  {
+    "id": 273,
+    "stoneName": "Thaumasite",
+    "stoneDescription": "For a long time, rare thaumasite crystals — pale, fragile, and with little to no fire — were interesting primarily as mineral specimens. With the discovery of even rarer facetable material, cut thaumasites are now prized collector’s gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2018/08/D09Thaumasite-300x300.jpg"
+  },
+  {
+    "id": 274,
+    "stoneName": "Thomsonite",
+    "stoneDescription": "Thomsonite cabochons take a high polish but are somewhat brittle. These are especially lovely when a pinkish gray eyelike pattern is present, but such material is rare, Lintonite, from Michigan, is translucent and green and is sometimes mistaken for jade. A faceted thomsonite must be considered a great rarity.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Thomsonite-300x175.jpg"
+  },
+  {
+    "id": 275,
+    "stoneName": "Tiger's Eye",
+    "stoneDescription": "Crocidolite, (blue asbestos,) alters to quartz, but while retaining its fibrous structure. This material is frequently stained by iron, giving it a golden brown color. We know this material as tigers eye. Unstained pieces, retaining their original blue color, are called Hawks Eye. There are also pieces with both colors.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/09/tigers-eye-South-Africa-300x300.png"
+  },
+  {
+    "id": 276,
+    "stoneName": "Topaz",
+    "stoneDescription": "The traditional November birthstone, topaz is a popular gem. Although frequently associated with golden yellow as well as blue, it can be found in a variety of colors, including colorless. The rarest are natural pink, red, and fine golden orange, sometimes with a pink tone.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2015/12/TopazNamibia-300x300.jpg"
+  },
+  {
+    "id": 277,
+    "stoneName": "Tourmaline",
+    "stoneDescription": "Tourmaline is a name applied to a family of related minerals with widely varying properties. Tourmalines make very popular jewelry stones and come in an amazing range of colors, including multi-color zones.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/09/87207868_1_x-300x300.jpg"
+  },
+  {
+    "id": 278,
+    "stoneName": "Tremolite",
+    "stoneDescription": "It is possible to misidentify tremolite, mistaking it for other amphiboles. Hexagonite is the rarest of the gem varieties of tremolite. If tremolite occurs in very tiny fibrous crystals, densely matted and interlocked, it is then known as nephrite (jade). Material containing more or less parallel fibers is somewhat chatoyant and yields weak catseyes. These are sometimes called catseye jades, but have been tested and are actually tremolite or (if more iron-rich) actinolite.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Tremolite-300x179.jpg"
+  },
+  {
+    "id": 279,
+    "stoneName": "Triphylite (Tryphylite)",
+    "stoneDescription": "Triphylite is one of the world's rarest gems. The IGS had the extraordinary privilege of examining a discovery of facetable material from Brazil that showed previously unknown characteristics.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/03/Nov12Triphylite-300x300.jpg"
+  },
+  {
+    "id": 280,
+    "stoneName": "Tsavorite Garnet",
+    "stoneDescription": "An emerald-green variety of grossular garnet, tsavorite is one of the most popular and expensive varieties of garnet. Suitable for any type of jewelry, tsavorites can be faceted into many designs.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/02/Aug14TsavoII-300x300.jpg"
+  },
+  {
+    "id": 281,
+    "stoneName": "Tugtupite",
+    "stoneDescription": "Gem collectors prize tugtupite for its rich colors and intense reaction to ultraviolet light. Sporadically used in jewelry, clean, faceted tugtupites are great rarities.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/6845451035_268f7c39f0_z-300x300.jpg"
+  },
+  {
+    "id": 282,
+    "stoneName": "Turquoise",
+    "stoneDescription": "With striking sky blue to blue-green colors, turquoise has been prized by cultures all over the world for over 5,000 years. Today, the traditional December birthstone is favored by well-known modern jewelry designers as well as aficionados of American Southwestern and Native American jewelry.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/05/Turquoise-in-silver-jewelry-Arizona-and-New-Mexico-300x300.jpg"
+  },
+  {
+    "id": 283,
+    "stoneName": "Ulexite",
+    "stoneDescription": "The fibrous material cuts interesting catseye cabochon gems, but they are curios only since they are much too soft and fragile for wear. The eye can be very strong, however. Sometimes ulexite occurs in seams, consisting of tightly packed parallel fibers. These are transparent along their length, and the packed aggregates act like an array of parallel glass fibers, displaying the property of fiber optics. If the material is polished perpendicular to the fiber direction, a piece of ulexite will transmit an image from the bottom of the slab to the top. For this reason the material has been nicknamed TV stone and is popular among mineral enthusiasts.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/1280px-Ulexite-300x300.jpg"
+  },
+  {
+    "id": 284,
+    "stoneName": "Uvarovite Garnet",
+    "stoneDescription": "Always a dark, rich green color, uvarovite is one of the rarest members of the garnet family. Usually only seen as druzy on matrix, these crystals are seldom faceted.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2014/10/IMG_5149-300x300.jpg"
+  },
+  {
+    "id": 285,
+    "stoneName": "Vanadinite",
+    "stoneDescription": "A faceted vanadinite may be considered a tremendous rarity. Fewer than ten such gems may have been cut. This is unfortunate since the color is rich and beautiful. Arizona crystals tend to be very small, but the ones from Morocco reach a size of several inches.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Vanadinite-goethite2-300x300.jpg"
+  },
+  {
+    "id": 286,
+    "stoneName": "Variscite",
+    "stoneDescription": "With beautiful green to blue-green colors and interesting patterns, variscite is a popular hobbyist material for cabochons.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/il_570xN.1567220787_adlc-300x300.jpg"
+  },
+  {
+    "id": 287,
+    "stoneName": "Villiaumite",
+    "stoneDescription": "Villiaumite is seldom discussed among collectors of rare gemstones because until recently no facetable material was known. The material from Los was reported in 1976 and has been cut into tiny gemstones of deep red color. Despite their small size, they are desirable because so few stones exist. The material from Quebec is larger but very scarce. Villiaumite is somewhat water-soluble, and cutters must use special tricks (such as using alcohol as a cutting coolant) to facet the material.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Villiaumite-mrz289a-300x300.jpg"
+  },
+  {
+    "id": 288,
+    "stoneName": "Vivianite",
+    "stoneDescription": "Vivianite is so fragile and soft, any faceted gems would be difficult to handle safely, let alone wear. Nevertheless, its blue and green colors are so rich, a few stones (very few) have been cut.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2016/10/June16Vivianite-300x300.jpg"
+  },
+  {
+    "id": 289,
+    "stoneName": "Väyrynenite",
+    "stoneDescription": "Väyrynenite is a very rare mineral. Crystals as well as faceted gemstones in reddish, pinkish, and orange colors are prized collector’s items.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Nov15Vayrynl-300x300.jpg"
+  },
+  {
+    "id": 290,
+    "stoneName": "Wardite",
+    "stoneDescription": "Wardite is another of the many phosphates that have been cut by collectors. It is pale colored and not terribly attractive and is fairly soft and fragile. It is seen far more frequently as cabochons than as faceted stones.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Wardite-LTH45B-300x300.jpg"
+  },
+  {
+    "id": 291,
+    "stoneName": "Wavellite",
+    "stoneDescription": "Wavellite is a very attractive mineral, well-known to collectors. Its radial aggregate crystal clusters can be cut into extremely interesting stones.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/05/ep5996-FI-300x300.jpg"
+  },
+  {
+    "id": 292,
+    "stoneName": "Weloganite",
+    "stoneDescription": "Truly a collector’s gem, weloganite is very rare and seldom cut. This stone can show pale yellow colors.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/image-1116-cropped-300x300.jpg"
+  },
+  {
+    "id": 293,
+    "stoneName": "Whewellite",
+    "stoneDescription": "Seldom seen even in mineral collections, whewellite is very rarely faceted. It’s mostly desired as a curiosity because of its scarcity, chemical composition, and unusual — sometimes organic — origins.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/WhewelliteII-300x300.jpg"
+  },
+  {
+    "id": 294,
+    "stoneName": "Wilkeite",
+    "stoneDescription": "An overview on Wilkeite Jewelry and Gemstones. Covers details and essential information on the physical properties and characteristics of Wilkeite gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/wilkeite-300x300.jpg"
+  },
+  {
+    "id": 295,
+    "stoneName": "Willemite",
+    "stoneDescription": "Willemite is prized for its intense green fluorescence. Too fragile for jewelry use, faceted specimens are extremely rare.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Dec16WillemiteII-300x300.jpg"
+  },
+  {
+    "id": 296,
+    "stoneName": "Witherite",
+    "stoneDescription": "Easy to cut but too soft and fragile for jewelry, a faceted witherite would make an unusual addition to a gem collection.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/faceted-witherite-England-300x300.jpeg"
+  },
+  {
+    "id": 297,
+    "stoneName": "Wollastonite",
+    "stoneDescription": "Interesting cabochons have been cut from wollastonite, especially from the fibrous material (which yields catseye stones) and the reddish material from Lake Superior’s lsle Royale. Wollastonite is strictly a curiosity and as a mineral is not especially rare. It resembles other white fibrous minerals, however, and is sometimes difficult to identify without using X—ray techniques. Facetable wollastonite is exceedingly rare, the material from Asbestos, Quebec (Jeffrey Mine) being singularly notable. Such gems are, moreover, extremely difficult to cut because of the cleavage and fibrosity of the mineral.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Wollastonite-300x300.jpg"
+  },
+  {
+    "id": 298,
+    "stoneName": "Wulfenite",
+    "stoneDescription": "Although aesthetically magnificent wulfenite crystals are often too thin, soft, and sensitive to cut for jewelry, rare faceted pieces are greatly prized by collectors. The red of wulfenite, especially from the Red Cloud Mine in Arizona, is one of the richest colors in nature.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/05/WULFENITE-2.53-Red-Cloud-300x300.jpg"
+  },
+  {
+    "id": 299,
+    "stoneName": "Xonotlite",
+    "stoneDescription": "Xonotlite is strong and can take a good polish. However, these gems are extremely rare, both as a species and cut specimens.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2017/05/Xonotlite-Italy-FI-300x300.png"
+  },
+  {
+    "id": 300,
+    "stoneName": "Yugawaralite",
+    "stoneDescription": "Yugawaralite is a very rare colorless to pinkish zeolite mineral. Little facetable material exists, so a cut yugawaralite would be a prized addition to a gem collection.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/YUGAWARALITE-1.01-300x300.jpg"
+  },
+  {
+    "id": 301,
+    "stoneName": "Zektzerite",
+    "stoneDescription": "Small, cuttable crystals of very rare zektzerite are found only in a mountainous location in Washington state. Faceted pieces would make prized specimens for any collection of American gems.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/ZEKTZERITE-0.42-300x300.jpg"
+  },
+  {
+    "id": 302,
+    "stoneName": "Zincite",
+    "stoneDescription": "Zincite is a very rare mineral. It’s also difficult to cut, which makes faceted zincite one of the rarest of all gems. However, “accidental synthetics” (industrial by-products) have entered the gem trade in far greater quantities than their natural counterparts.",
+    "thumbImageUrl": "https://www.gemsociety.org/wp-content/uploads/2013/12/Zincite.jpg"
+  },
 ]
