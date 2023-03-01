@@ -1,4 +1,5 @@
-[{
+[
+{
     "id": "",
     "image": "",
     "name": "Painting",
@@ -1154,127 +1155,127 @@
       {
         "id": "520e9c9292237be077e494f3",
         "name": "Colorful Wood",
-        "after_image": "https://www.dropbox.com/s/oavo2351gh868f8/colorful_wood.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/oavo2351gh868f8/colorful_wood.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520fe7b492237be177511ca1",
         "name": "Abstract Rays",
-        "after_image": "https://www.dropbox.com/s/r1xqh94qn87anhp/abstract_rays.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/r1xqh94qn87anhp/abstract_rays.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520cd19192237beb6c88bcca",
         "name": "Vitrage Window",
-        "after_image": "https://www.dropbox.com/s/5o95qiskkrxd6xr/vitrage_window.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/5o95qiskkrxd6xr/vitrage_window.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520fa46092237be177f3cce7",
         "name": "Weave",
-        "after_image": "https://www.dropbox.com/s/oe0h2rbvs1mwbah/weave.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/oe0h2rbvs1mwbah/weave.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
         "pro": false
       },
       {
         "id": "5209054a92237b031d47c5ec",
         "name": "Color Checkers",
-        "after_image": "https://www.dropbox.com/s/eqeays488uz2i7p/color_checkers.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/eqeays488uz2i7p/color_checkers.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/dyzujcjun9otfh7/car1.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520e9d6e92237be5779e2ebf",
         "name": "Sunburst",
-        "after_image": "https://www.dropbox.com/s/ujhsv9cio74rlf0/sunburst.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/ujhsv9cio74rlf0/sunburst.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
         "pro": false
       },
       {
         "id": "5209457292237b542727c2d1",
         "name": "Bricks",
-        "after_image": "https://www.dropbox.com/s/0oxl12g5zgce2cr/bricks.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/0oxl12g5zgce2cr/bricks.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520d14f092237bef779ba01d",
         "name": "Striped Jeans",
-        "after_image": "https://www.dropbox.com/s/gapkj50189skyby/striped%20jeans.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/gapkj50189skyby/striped%20jeans.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520cd09d92237beb6c08eddd",
         "name": "Old Letter",
-        "after_image": "https://www.dropbox.com/s/hfxefg75wq4f6jn/old%20letter.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/hfxefg75wq4f6jn/old%20letter.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520e9dba92237be977d8e2a6",
         "name": "Wood",
-        "after_image": "https://www.dropbox.com/s/d7ovmai8oex17at/wood.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/d7ovmai8oex17at/wood.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/nky0d2gk2mq7bxb/car2.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520fe7f992237beb777de1a2",
         "name": "Triangular",
-        "after_image": "https://www.dropbox.com/s/1xv7c2qb7tx3ky3/triangular.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/u0lvgdwalxzfx6a/car3.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/1xv7c2qb7tx3ky3/triangular.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/u0lvgdwalxzfx6a/car3.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520ccfd492237bea6c679a33",
         "name": "Old Dream",
-        "after_image": "https://www.dropbox.com/s/a1e3utwwhyzut6s/old%20dream.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/u0lvgdwalxzfx6a/car3.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/a1e3utwwhyzut6s/old%20dream.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/u0lvgdwalxzfx6a/car3.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520e9cf192237bdc77e95567",
         "name": "Champagne",
-        "after_image": "https://www.dropbox.com/s/0xmwzkcpil73tfo/champagne.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/u0lvgdwalxzfx6a/car3.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/0xmwzkcpil73tfo/champagne.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/u0lvgdwalxzfx6a/car3.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520d13d492237be47742cc1c",
         "name": "3D Wall",
-        "after_image": "https://www.dropbox.com/s/sm5op5kcuffv8z8/3d%20wall.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/u0lvgdwalxzfx6a/car3.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/sm5op5kcuffv8z8/3d%20wall.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/u0lvgdwalxzfx6a/car3.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520d118692237bde77ae3b54",
         "name": "Peeling",
-        "after_image": "https://www.dropbox.com/s/9elil1lmyps6zli/peeling.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/5msbd5qczfjwq7v/car4.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/9elil1lmyps6zli/peeling.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/5msbd5qczfjwq7v/car4.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520cd42192237bf06ca00254",
         "name": "Colorful Tiles",
-        "after_image": "https://www.dropbox.com/s/1c88my9hyrwtkuh/colorful%20tiles.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/5msbd5qczfjwq7v/car4.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/1c88my9hyrwtkuh/colorful%20tiles.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/5msbd5qczfjwq7v/car4.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520a12dc92237b56273ab686",
         "name": "Canvas",
-        "after_image": "https://www.dropbox.com/s/oexbt8gtu2kgc9g/canvas.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/5msbd5qczfjwq7v/car4.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/oexbt8gtu2kgc9g/canvas.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/5msbd5qczfjwq7v/car4.jpg?dl=0",
         "pro": false
       },
       {
         "id": "521b15b092237b556212c1b5",
         "name": "Circle of Colors",
-        "after_image": "https://www.dropbox.com/s/45kb0hvrdbpjlp5/circle%20of%20colors.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/5msbd5qczfjwq7v/car4.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/45kb0hvrdbpjlp5/circle%20of%20colors.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/5msbd5qczfjwq7v/car4.jpg?dl=0",
         "pro": false
       }
     ]
@@ -1287,57 +1288,57 @@
       {
         "id": "520fe49c92237bee775d3dab",
         "name": "Cartoon",
-        "after_image": "https://www.dropbox.com/s/uvnp337qxpdgpdy/cartoon_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/c9j42c9rpax6ut2/cartoon_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/uvnp337qxpdgpdy/cartoon_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/c9j42c9rpax6ut2/cartoon_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "5208b48692237b4815ff866a",
         "name": "Glossy Cartoon",
-        "after_image": "https://www.dropbox.com/s/6abyf77o5ivu4n4/glossy_cartoon_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/v42h1plearwq5dv/glossy_cartoon_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/6abyf77o5ivu4n4/glossy_cartoon_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/v42h1plearwq5dv/glossy_cartoon_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520b841092237b0052ec489d",
         "name": "Comics! BooM",
-        "after_image": "https://www.dropbox.com/s/mmqq4z9eipno5rw/comics_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/3vhft7q3puzg5be/comics_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/mmqq4z9eipno5rw/comics_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/3vhft7q3puzg5be/comics_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520b82bc92237b02528f21bf",
         "name": "Retro Comic",
-        "after_image": "https://www.dropbox.com/s/9h8agj2652vukjd/retro_comic_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/lzrmpzdht60ypti/retro_comic_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/9h8agj2652vukjd/retro_comic_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/lzrmpzdht60ypti/retro_comic_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520e9e2c92237be277656a59",
         "name": "Press Comics",
-        "after_image": "https://www.dropbox.com/s/026e74fpvcfchgw/press_comocs_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/ypl7hgx1guktq5m/press_comocs_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/026e74fpvcfchgw/press_comocs_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/ypl7hgx1guktq5m/press_comocs_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520ba76892237bda573b05a7",
         "name": "Toonic",
-        "after_image": "https://www.dropbox.com/s/in8ozg2m136f0hr/toonic_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/gjik2rfbqicpd0d/toonic_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/in8ozg2m136f0hr/toonic_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/gjik2rfbqicpd0d/toonic_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "5208b57a92237b4e15329a08",
         "name": "Comic Book",
-        "after_image": "https://www.dropbox.com/s/uijqntzbnxvbojv/comic_book_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/6owp2qj8kl6ayad/comic_book_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/uijqntzbnxvbojv/comic_book_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/6owp2qj8kl6ayad/comic_book_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "5208b64a92237b4f152e9c4d",
         "name": "Magazine Comics",
-        "after_image": "https://www.dropbox.com/s/lmtxqg27j851vgj/magazine_comics_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/d52vkfc87gltrax/magazine_comics_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/lmtxqg27j851vgj/magazine_comics_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/d52vkfc87gltrax/magazine_comics_b.jpg?dl=0",
         "pro": false
       }
     ]
@@ -1350,29 +1351,29 @@
       {
         "id": "520fbe9692237be8773a7d15",
         "name": "Warhol Dots",
-        "after_image": "https://www.dropbox.com/s/4pg8lf32qlqqv2e/warhol_dots_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/shkx36b94fyyd42/warhol_dots_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/4pg8lf32qlqqv2e/warhol_dots_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/shkx36b94fyyd42/warhol_dots_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "5208ee6492237b091d5e64a1",
         "name": "Che Guevara",
-        "after_image": "https://www.dropbox.com/s/qso8u5ne78x1eg7/che_guevara_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/wsm9rqv4no2ithv/che_guevara_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/qso8u5ne78x1eg7/che_guevara_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/wsm9rqv4no2ithv/che_guevara_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520fa1ed92237bde77284279",
         "name": "Video Game",
-        "after_image": "https://www.dropbox.com/s/pc7xximf0v3bete/video_game_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/y7u16mod3kt2520/video_game_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/pc7xximf0v3bete/video_game_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/y7u16mod3kt2520/video_game_b.jpg?dl=0",
         "pro": false
       },
       {
         "id": "520fa10d92237be077ecafc9",
         "name": "Posterize",
-        "after_image": "https://www.dropbox.com/s/q4rlc3wqqf4l0uh/posterize_a.jpg?dl=0",
-        "before_image": "https://www.dropbox.com/s/1j37tabdrrc9ldl/posterize_b.jpg?dl=0",
+        "after_image": "https://www.dl.dropboxusercontent.com/s/q4rlc3wqqf4l0uh/posterize_a.jpg?dl=0",
+        "before_image": "https://www.dl.dropboxusercontent.com/s/1j37tabdrrc9ldl/posterize_b.jpg?dl=0",
         "pro": false
       }
     ]
