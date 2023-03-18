@@ -1,0 +1,38 @@
+[
+{
+     "name": "Youtube",
+    "image": "youtube",
+    "url": "https://save-from.net/youtube-video-downloader",
+    "isShow": true
+},
+{
+     "name": "TikTok",
+    "image": "tiktok",
+    "url": "https://en.savefrom.net/189/download-from-tiktok",
+    "isShow": true
+},
+{
+     "name": "Twitter",
+    "image": "twitter",
+    "url": "https://en.savefrom.net/233/download-from-twitter",
+    "isShow": true
+},
+{
+     "name": "SnapChat",
+    "image": "snapchat",
+    "url": "https://solyptube.com/snapchat-video-download",
+    "isShow": true
+},
+{
+     "name": "Linkedin",
+    "image": "linkedin",
+    "url": "https://solyptube.com/linkedin-video-download",
+    "isShow": true
+},
+{
+     "name": "Pinterest",
+    "image": "pinterest",
+    "url": "https://solyptube.com/pinterest-video-download",
+    "isShow": true
+}
+]
